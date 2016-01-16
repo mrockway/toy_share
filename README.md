@@ -6,36 +6,36 @@ Toy Bin is a search engine that helps members look for donated children toys bas
 
 ##Technologies
 
-**Backend:** Ruby on Rails, AJAX, PostgreSQL, RSpec, JavaScript
+**Backend:** Ruby on Rails, PostgreSQL
 
-**Frontend:** HTML, CSS, jQuery, Materialize
+**Frontend:** HTML, CSS, JavaScript/jQuery, Materialize
 
-**Additional Features:** FaceBook API, Integerated Chat Message, LogoMakr, PaperClip, Heroku, Amazon Web Services 
+**Additional Features:** FaceBook API, Integerated Chat Message, PaperClip, Heroku, Amazon Web Services 
 
 ##ToyBin 
 
 ![ToyBin] (/images_ReadME/index_page.png)
 
-##Future Steps
+##Future Features
 
 We understand that Toy Bin is a work in progress and we hope we can add the following additions in the future: 
 
-*	Further optimize the search engine so it works better for a variety of categories. 
+*	Further optimize the search engine so it works better for a variety of categories.
+*	Add email sending to new users and new message indicators
 *	Improve the overall user experience. 
 *	Build out the inventory page to be more dynamic, so that members can easily browse for items
 *	Have a better theme layout and color choices
 *	Have chats page click into particular chats in the inbox
-*	Register on Facebook and make it live. Also add more external API’s, such as Twitter or Github 
-*	Test the entire application, so that all features are measured
+*	Register on Facebook and make it live. Also add more external API’s, such as Twitter or Github
 
 
-##About The Team 
+##The Team 
 	
-[Andre Massey](https://www.linkedin.com/in/andremassey1) - "Started from the bottom, now I'm tall."
+[Andre Massey](https://www.linkedin.com/in/andremassey1)
 
-[Cynthia Salinas](https://www.linkedin.com/in/cynthiagsalinas) - “I used to be running the office and now I’m making my own apps!”
+[Cynthia Salinas](https://www.linkedin.com/in/cynthiagsalinas)
 
-[Zohar Muzafi](https://www.linkedin.com/in/zoharmuzafi) - "Used to code in school, now I'm back in the game."	
+[Zohar Muzafi](https://www.linkedin.com/in/zoharmuzafi) 
 
-[Michael Rockway](https://www.linkedin.com/in/mrockway) - "Coding is just like bookkeeping, you gotta check your records." 
+[Michael Rockway](https://www.linkedin.com/in/mrockway) 
 
